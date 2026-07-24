@@ -32,6 +32,14 @@ cursor, the preloader, the copy voice, and a recurring structural device. Pick a
 metaphor ("a calibration instrument", "an archive dossier", "a stage", "a field guide", "a
 control room") and let it decide the details instead of deciding them one at a time.
 
+**Coherence is not immunity — re-check the palette the spine hands you.** A perfectly
+coherent world can still deposit you in a *banned* palette, and it slips past precisely
+because it feels inevitable: a "geological" spine drifts to sandstone/ochre/clay (the banned
+beige + brass/clay/oxblood family); a "nocturnal" spine drifts to near-black + neon; a
+"warm/human" spine drifts to graphite + ember. The instant the concept hands you colors,
+check them against the flow's banned families (`design-recipe.md` / `reference-boards.md`)
+*before* locking them. Keep the spine; change the hexes.
+
 ## Generic tells — if you catch yourself reaching for these, stop
 
 None of these is illegal in isolation, but together they *are* the generic template. Treat
@@ -50,6 +58,25 @@ each as a smell that you defaulted instead of chose:
 - Perfectly centered everything with characterless "clean" whitespace.
 - Copy built from "Empower / Unlock / Seamless / Elevate / Delight", and em-dashes
   everywhere (the base flow bans em-dashes outright — respect that).
+
+## Name this product's category cliché — not just the universal ones
+
+The blacklist above is *universal* — it catches tells any site can fall into. But every
+product category also has its own dominant cliché, and that is usually the strongest gravity
+on a given brief. Before Phase 1, name the one or two clichés specific to THIS product's
+category and ban them in the brief the same way the flow bans palettes:
+
+- **AI notes / "second brain"** → the glowing neural-graph / networked-thought
+  constellation (Obsidian/Roam/Reflect). The default, and almost always lazy.
+- **Fintech / payments** → a floating glossy 3D credit card on a gradient.
+- **Dev tools / infra** → terminal-green monospace on black; a fake CLI hero.
+- **Crypto / web3** → dark + neon + a wire-grid horizon.
+- **Agency / studio** → giant type + horizontal scroll + "we are a collective of…".
+- **Productivity / SaaS** → the app screenshot floating in fake browser chrome.
+
+These are examples, not the whole list — the move is to look up what *everyone in this
+category* does and refuse it on purpose. A strong concept spine makes the category-default
+look like the timid choice it is.
 
 ## Reach for these instead
 

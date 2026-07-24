@@ -66,10 +66,14 @@ way and explain why):
 - **Animation mode:** `animated-website` — the seam-locked scroll-scrub camera journey.
   This *is* the scrollytelling spine. Do not let a "simple landing page" framing talk you
   out of it.
-- **Delivery tier:** `spectacle`. This matters — spectacle is the tier that already
-  budgets for a **custom cursor** and a second WebGL/scrub beat, so choosing it makes the
-  cursor a first-class citizen of the base flow instead of a bolt-on. Put an
-  awwwards/immersive framing in the brief so the tier reads as intended.
+- **Delivery tier:** `spectacle` — and be honest about *why*, don't reverse-engineer the
+  brief to justify it. The base flow's craft floor only permits a custom cursor on
+  `spectacle`; `cinema` and `editorial` don't get one. This skill *mandates* a custom
+  cursor, so a scrollytelling-site build **is** a spectacle build by direct consequence —
+  not a label you talk your way into with an "awwwards" framing. The corollary is the
+  honest boundary of this skill: if a brief genuinely wants cinema restraint with *no*
+  custom cursor, it is not a scrollytelling-site build — use the base flow directly instead
+  of forcing spectacle onto it.
 
 Write these into `app/design-brief.md` at Phase 0 like the flow expects, and add one extra
 brief block — **"Signature ingredients"** — naming the preloader concept and the cursor

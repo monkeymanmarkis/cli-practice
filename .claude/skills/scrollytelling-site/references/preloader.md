@@ -111,6 +111,22 @@ The seam matters: whatever the curtain reveals should be *exactly* the first scr
 and the `intro:done` event lets the hero start its own entrance the instant the curtain
 clears — so the intro and the journey read as one continuous move, not two.
 
+**Avoid the double-open (animated-website only).** The scroll-scrub journey already has its
+own opening beat — a poster-held first frame plus the hero's entrance. Bolt a preloader with
+a separate reveal on top of that and the visitor gets *two* openings that fight each other.
+Resolve it one of two ways, every time:
+
+- **Use first-frame-hold (concept 5)** — the intro simply *is* the journey's opening beat,
+  so there's only ever one open. This is the safest default on animated-website.
+- **Or hold the journey's real scene-0 poster underneath your intro.** Whatever concept you
+  pick (counter, curtain, mask), render the scroll-scrub's actual scene-0 poster as the
+  layer directly beneath the preloader, and have the intro resolve *into that exact image*.
+  The handoff is then one continuous picture, not a curtain that reveals a different frame
+  which then re-animates.
+
+Picking any other intro concept without doing one of these is the double-open trap — catch
+it at Phase 0 when you name the preloader concept in the brief.
+
 ## Distinct intro concepts — pick one that serves the spine
 
 Rotate through these; do not default to the same one every build. Each is one sentence of

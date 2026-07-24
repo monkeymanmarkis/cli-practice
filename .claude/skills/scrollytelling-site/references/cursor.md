@@ -137,7 +137,11 @@ export function useMagnet(ref: React.RefObject<HTMLElement>, strength = 0.3) {
 
 ## Distinct cursor concepts — pick one that serves the spine
 
-Don't default to a plain dot every time. Choose a motif and commit to it:
+Don't default to a plain dot every time. Choose a motif and commit to it. But "serves the
+spine" is not "wears a costume" — for some spines the most premium expression is *restraint*:
+a clean difference-blend disc that is simply confident, where a themed, labelled pointer
+would read as a gimmick. Coherence can live in tone and behavior, not a literal motif. Pick
+the option that makes the site feel more *considered*, not busier:
 
 1. **Dot + trailing ring** (skeleton above) — the versatile baseline; give it a *specific*
    contextual behavior (resize, label, blend) so it isn't generic.
